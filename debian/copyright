@@ -15,6 +15,76 @@ Copyright: 2000, Nicholas Robbins <logik9000@chartermi.net>
            2012, Viktor Chynarov
 License: GFDL-1.2+
 
+Files: dialogs/fleetdlg.cc
+       dialogs/fleetdlg.h
+       dialogs/newgamedlg.h
+       dialogs/scoredlg.cc
+       dialogs/scoredlg.h
+       fleet.cc
+       fleet.h
+       game.cpp
+       game.h
+       gameview.h
+       images.h
+       Konquest.cc
+       mainwin.cc
+       mainwin.h
+       map/map.cc
+       map/map.h
+       map/mapitems.h
+       map/mapscene.cc
+       map/mapscene.h
+       map/mapview.cc
+       map/mapview.h
+       planet.cc
+       planet.h
+       players/computerplayer.cpp
+       players/localplayer.cpp
+       players/localplayer.h
+       players/neutralplayer.h
+       sector.cc
+       sector.h
+Copyright: 2003, Russell Steffen <rsteffen@bayarea.net>
+           2003, Stephan Zehetner <s.zehetner@nevox.org>
+           2006, Dmitry Suzdalev <dimsuz@gmail.com>
+           2006, Inge Wallin <inge@lysator.liu.se>
+           2006, Pierre Ducroquet <pinaraf@gmail.com>
+License: GPL-2+
+
+Files: dialogs/newgamedlg.cc
+       gameview.cc
+       map/mapitems.cc
+Copyright: 2003, Russell Steffen <rsteffen@bayarea.net>
+           2003, Stephan Zehetner <s.zehetner@nevox.org>
+           2006, Dmitry Suzdalev <dimsuz@gmail.com>
+           2006, Inge Wallin <inge@lysator.liu.se>
+           2006, Pierre Ducroquet <pinaraf@gmail.com>
+           2011, Jeffrey Kelling <overlordapophis@gmail.com>
+License: GPL-2+
+
+Files: localgame.cpp
+       localgame.h
+       players/computerplayer.h
+       players/neutralplayer.cpp
+       players/player.h
+Copyright: 2006, Pierre Ducroquet <pinaraf@gmail.com>
+License: GPL-2+
+
+Files: minimapview.cc
+       minimapview.h
+Copyright: 2003, Russell Steffen <rsteffen@bayarea.net>
+           2003, Stephan Zehetner <s.zehetner@nevox.org>
+           2006, Dmitry Suzdalev <dimsuz@gmail.com>
+           2006, Inge Wallin <inge@lysator.liu.se>
+           2006, Pierre Ducroquet <pinaraf@gmail.com>
+           Sean D'Epagnier <geckosenator@gmail.com>
+License: GPL-2+
+
+Files: players/player.cpp
+Copyright: 2006, Pierre Ducroquet <pinaraf@pinaraf.info>
+           2011, Jeffrey Kelling <overlordapophis@gmail.com>
+License: GPL-2+
+
 Files: debian/*
 Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 License: GPL-2+
