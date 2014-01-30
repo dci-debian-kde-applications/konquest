@@ -1,6 +1,7 @@
 konquest (4:4.11.5-1) UNRELEASED; urgency=medium
 
   * New upstream release.
+  * Do not disable an empty test set.
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 30 Jan 2014 14:32:05 +0100
 
