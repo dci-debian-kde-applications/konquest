@@ -18,13 +18,13 @@ Build-Depends: cmake,
                pkg-kde-tools (>= 0.14)
 Standards-Version: 3.9.5
 Homepage: http://games.kde.org/
-Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-applications/konquest.git/
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/konquest.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/konquest.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/konquest.git
 
 Package: konquest
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter
+Recommends: khelpcenter4
 Description: simple turn-based strategy game
  Konquest is a game of galactic conquest for KDE, where rival empires vie to
  conquer planets and crush all opposition.  The game can be played with up to
