@@ -1,3 +1,9 @@
+konquest (4:14.12.2-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (14.12.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 16:15:21 +0100
+
 konquest (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
@@ -300,4 +306,3 @@ konquest (4:4.9.90-0ubuntu1) raring; urgency=low
   * Add kubuntu_01_copyright.diff from upstream, fix copyright declarations
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 03 Dec 2012 17:39:46 +0000
-
