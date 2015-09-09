@@ -1,8 +1,9 @@
-konquest (4:15.04.0-1~) UNRELEASED; urgency=medium
+konquest (4:15.08.0-1~) UNRELEASED; urgency=medium
 
   * New upstream release (15.04.0).
+  * New upstream release (15.08.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 23 Apr 2015 16:17:54 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Sep 2015 23:02:19 +0200
 
 konquest (4:14.12.2-1) experimental; urgency=medium
 
