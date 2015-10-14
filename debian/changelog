@@ -1,8 +1,8 @@
-konquest (4:15.08.2-0ubuntu1) UNRELEASED; urgency=medium
+konquest (4:15.08.2-0ubuntu1) wily; urgency=medium
 
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 09 Oct 2015 14:31:02 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 14 Oct 2015 12:38:15 +0100
 
 konquest (4:15.08.1-0ubuntu1) wily; urgency=medium
 
