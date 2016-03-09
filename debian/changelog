@@ -1,9 +1,9 @@
-konquest (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+konquest (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   * New upstream release
   * Merged with Debian
 
- -- Clive Johnston <clivejo@aol.com>  Sat, 06 Feb 2016 17:59:18 +0000
+ -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 10:57:36 +0100
 
 konquest (4:15.08.2-0ubuntu1) wily; urgency=medium
 
