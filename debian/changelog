@@ -1,10 +1,6 @@
-konquest (4:15.08.0-2~2.gbpd1e273) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @d1e2733199a7625ae3043b2a798ec442adc39356 **
+konquest (4:15.08.0-2) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @a079703a74def2b24f572de90653d368cb339762 **
-
   * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
@@ -12,7 +8,7 @@ konquest (4:15.08.0-2~2.gbpd1e273) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 10:45:19 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 20:28:49 +0200
 
 konquest (4:15.08.0-1) unstable; urgency=medium
 
